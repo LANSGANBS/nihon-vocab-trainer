@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *.pyo
-*.spec
 .venv/
 venv/
 env/
@@ -33,7 +32,6 @@ build/
 .matplotlib/
 
 # Local dictionaries / exports (若要版本化请删除这些规则)
-*.csv
 export/
 
 # OS
