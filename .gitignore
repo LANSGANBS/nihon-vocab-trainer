@@ -1,0 +1,41 @@
+# Python & virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.spec
+.venv/
+venv/
+env/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+*.tmp
+
+# Data & cache
+*.sqlite*
+*.db
+*.bak
+.cache/
+
+# PyInstaller outputs
+*.exe
+*.dll
+*.pkg
+*.dmg
+
+# Matplotlib cache
+.matplotlib/
+
+# Local dictionaries / exports (若要版本化请删除这些规则)
+*.csv
+export/
+
+# OS
+.DS_Store
+Thumbs.db
